@@ -45,25 +45,6 @@ Aspiring Full-Stack Web Developer • DSA Enthusiast • Passionate About Buildi
 
 More exciting projects coming soon!
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shreyasharma557&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyasharma557&layout=compact&theme=tokyonight)
-
-</p>
-
----
-
-## 📫 Connect With Me
-
-- GitHub: https://github.com/shreyasharma557
-
----
 
 <p align="center">
 ✨ Always learning, always building. ✨
