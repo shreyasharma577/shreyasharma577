@@ -39,9 +39,10 @@ Aspiring Full-Stack Web Developer • DSA Enthusiast • Passionate About Buildi
 
 ## 🚀 Featured Projects
 
-- 🌐 **To-do App**
-- 🎮 **Mystery Quest Game**
-- ❓ **Quiz App**
+- **Kanban Board**
+- **Mystery Quest Game**
+- **Quiz App**
+- **To-do App**
 
 More exciting projects coming soon!
 
